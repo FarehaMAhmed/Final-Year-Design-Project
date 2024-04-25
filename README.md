@@ -1,1 +1,2 @@
 # Final-Year-Design-Project
+Our FYDP is title as 'RICE GRAIN VARIETY CLASSIFICATION USING DEEP LEARNING'
